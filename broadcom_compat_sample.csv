@@ -1,0 +1,11 @@
+vendor,product_name,product_version,category,item,status,notes,source_url,last_updated
+Broadcom,CA Endevor (sample),17.0,CICS TS Compatibility Matrix,CICS TS V6R2,YES,PTFs,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/NM4.HTML,2026-02-06
+Broadcom,CA Endevor (sample),17.0,z/OS Compatibility Matrix,z/OS V3R1,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/NM4.HTML,2026-02-06
+Broadcom,CA Endevor (sample),16.0,z/OS Compatibility Matrix,z/OS V2R5,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/NM4.HTML,2026-02-06
+Broadcom,COBOL for z/OS-family (sample),15.0,z/OS Compatibility Matrix,z/OS V2R4,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/VBD.HTML,2026-02-06
+Broadcom,COBOL for z/OS-family (sample),15.0,z/OS Compatibility Matrix,z/OS V3R1,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/VBD.HTML,2026-02-06
+Broadcom,COBOL for z/OS-family (sample),15.0,Db2 Compatibility Matrix,Db2 V13,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/VBD.HTML,2026-02-06
+Broadcom,CA ACF2 (sample),17.0,z/OS Compatibility Matrix,z/OS V3R1,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/WT1.HTML,2025-12-21
+Broadcom,CA ACF2 (sample),16.0,z/OS Compatibility Matrix,z/OS V2R5,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/WT1.HTML,2025-12-21
+Broadcom,CA Top Secret (sample),17.0,CA Top Secret Compatibility Matrix,CA TSS V17,YES,,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/WT1.HTML,2025-12-21
+Broadcom,CA Panvalet (sample),14.6,z/OS Compatibility Matrix,z/OS V2R5,YES,,https://knowledge.broadcom.com/external/article/136384,2025-09-01

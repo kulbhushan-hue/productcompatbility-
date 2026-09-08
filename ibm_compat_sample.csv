@@ -1,0 +1,5 @@
+vendor,product_name,product_version,category,item,status,notes,source_url,last_updated
+IBM,IBM Developer for z/OS (sample),17.0,z/OS Compatibility,z/OS V2R5,YES,See SPCR for exact PTF/APAR level,https://www.ibm.com/support/pages/node/713257,2025-11-01
+IBM,IBM Developer for z/OS (sample),17.0,z/OS Compatibility,z/OS V3R1,YES,See SPCR for exact PTF/APAR level,https://www.ibm.com/support/pages/node/713257,2025-11-01
+IBM,IBM Fault Analyzer for z/OS (sample),14.1,z/OS Compatibility,z/OS V2R5,YES,,https://www.ibm.com/support/pages/node/603899,2020-01-06
+IBM,IBM Operational Decision Manager for z/OS (sample),9.5.0,z/OS Compatibility,z/OS V2R5,YES,Now branded IBM Decision Runtime for z/OS from 9.1,https://www.ibm.com/support/pages/node/627499,2024-01-01
